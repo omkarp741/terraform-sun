@@ -1,6 +1,6 @@
 region = "us-east-1"
-access_key = "AKIAYS2NU4CC6L5TRWWN"
-secret_key = "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"
+access_key = 
+secret_key = 
 ami = "ami-013168dc3850ef002"
 instance_type = "t2.micro"
 cidr_block = "10.0.0.0/16"
